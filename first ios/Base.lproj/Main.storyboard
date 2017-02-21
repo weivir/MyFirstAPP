@@ -24,7 +24,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="198"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="hAY-p9-rss" id="e02-Lh-VFg">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="197"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="197.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="400x600-沒問題先生" translatesAutoresizingMaskIntoConstraints="NO" id="yKi-ES-XWp">
@@ -48,6 +48,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="aAb-L2-HYx" kind="show" id="PYn-BX-3XY"/>
                                         </connections>
@@ -56,7 +57,7 @@
                                         <rect key="frame" x="0.0" y="198" width="414" height="195"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Rmh-q0-Uip" id="BuQ-oh-hIC">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="194"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="194.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="400x600心中的小星星" translatesAutoresizingMaskIntoConstraints="NO" id="8C3-up-fXY">
@@ -80,6 +81,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="ePS-uv-USI" kind="show" id="fGC-xe-5mK"/>
                                         </connections>
@@ -88,7 +90,7 @@
                                         <rect key="frame" x="0.0" y="393" width="414" height="195"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="z7o-JM-m5P" id="E05-iA-CfQ">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="194"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="194.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="400x600丹麥女孩" translatesAutoresizingMaskIntoConstraints="NO" id="wOP-ko-Ihs">
@@ -112,6 +114,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="sTm-av-Zuf" kind="show" id="5iI-Yx-g44"/>
                                         </connections>
@@ -120,7 +123,7 @@
                                         <rect key="frame" x="0.0" y="588" width="414" height="194"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="bkX-YI-w3B" id="C0u-Ej-Z7L">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="193"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="193.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="400x600名畫控訴" translatesAutoresizingMaskIntoConstraints="NO" id="ixy-qD-ojC">
@@ -144,6 +147,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="V18-WG-MGf" kind="show" id="21a-rQ-eSn"/>
                                         </connections>
@@ -152,7 +156,7 @@
                                         <rect key="frame" x="0.0" y="782" width="414" height="209"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="jTk-iP-9qW" id="6IT-A1-kak">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="208"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="208.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="400x600叫我第一名" translatesAutoresizingMaskIntoConstraints="NO" id="iom-9f-Yyf">
@@ -176,6 +180,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="taF-qE-eVc" kind="show" id="TTE-5v-Vkk"/>
                                         </connections>
@@ -340,7 +345,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="192"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="mkc-u6-fHQ" id="NTN-TN-2rg">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="191"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="191.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="捍衛聯盟400x600" translatesAutoresizingMaskIntoConstraints="NO" id="PWv-wj-p38">
@@ -364,6 +369,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="RkO-jB-5Do" kind="show" id="wfD-LQ-34D"/>
                                         </connections>
@@ -372,7 +378,7 @@
                                         <rect key="frame" x="0.0" y="192" width="414" height="199"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="IOt-w4-97e" id="BTw-qO-ZaF">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="198"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="198.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="怪獸" translatesAutoresizingMaskIntoConstraints="NO" id="w3p-5I-AvB">
@@ -396,6 +402,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="keK-dz-ALO" kind="show" id="5bp-Y5-2Eh"/>
                                         </connections>
@@ -404,7 +411,7 @@
                                         <rect key="frame" x="0.0" y="391" width="414" height="195"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="2JF-AR-JcW" id="r8g-Mn-r95">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="194"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="194.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="借物少女400x600" translatesAutoresizingMaskIntoConstraints="NO" id="5TY-8c-Den">
@@ -428,6 +435,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="BGl-8l-e9p" kind="show" id="pUD-gi-Ybu"/>
                                         </connections>
@@ -436,7 +444,7 @@
                                         <rect key="frame" x="0.0" y="586" width="414" height="193"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="doZ-Wy-ItW" id="PCU-9U-awN">
-                                            <rect key="frame" x="0.0" y="0.0" width="381" height="192"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="381" height="192.66666666666666"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="千尋400x600" translatesAutoresizingMaskIntoConstraints="NO" id="Pkh-JM-Elz">
@@ -460,6 +468,7 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <inset key="separatorInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                         <connections>
                                             <segue destination="v8k-Rf-Y0U" kind="show" id="Hrx-Om-YFv"/>
                                         </connections>
